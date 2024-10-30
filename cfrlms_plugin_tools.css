@@ -1,0 +1,17 @@
+small {
+	font-weight:normal;
+	color:#777;	
+}
+
+div.inside ul {
+	margin-left: 20px;
+}
+
+div.inside ul li {
+	list-style: square;
+	line-height:16px;
+}
+
+input.text {
+	width: 100%!important;
+}
